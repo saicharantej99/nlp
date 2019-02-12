@@ -8,4 +8,4 @@ The Jupyter notebook has the below steps:
 3.Build Input and Output sequences of 100 characters length
 4.One-hot encode the output
 5.Build the Model using a LSTM layer
-6.Use the trained model to predict the next character
+6.Use the trained model to predict the next character given a input sequence
